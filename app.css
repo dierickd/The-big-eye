@@ -1,0 +1,15 @@
+*{
+  box-sizing: border-box;
+}
+.title{
+  text-align: center;
+  margin-bottom: 50px;
+}
+.dark, .orange, .yellow{
+  padding: 4%;
+  border-left: 1px solid #DCDCDC;
+  border-top: 1px solid #DCDCDC;
+}
+.dark{background-color: #333d40;}
+.orange{background-color: #FF8C00;}
+.yellow{background-color: #FFD700;}
